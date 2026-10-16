@@ -10,7 +10,7 @@ The chatbot also demonstrates how to handle questions when the available policy 
 
 ## Demo
 
-![Company chatbot demo](screenshots/chatbot-demo.png)
+![Company chatbot demo](screenshots/demo-image.png)
 ## Features
 
 - Answers questions about shipping, returns, and customer support.
