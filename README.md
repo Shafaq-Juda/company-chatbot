@@ -8,6 +8,9 @@ This project demonstrates how an AI assistant can retrieve relevant information 
 
 The chatbot also demonstrates how to handle questions when the available policy documents do not contain the requested information.
 
+## Demo
+
+![Company chatbot demo](screenshots/chatbot-demo.png)
 ## Features
 
 - Answers questions about shipping, returns, and customer support.
